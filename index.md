@@ -1,25 +1,4 @@
----
-layout: article
-title: Page - Sidebar
-permalink: /page/sidebar.html
-key: page-sidebar
-cover: /docs/assets/images/axure/page-sidebar.jpg
-sidebar:
-  nav: layouts
----
 
-A post with a left sidebar.
-
-<!--more-->
-
-**front matter:**
-
-    ---
-    layout: article
-    title: Page - Sidebar
-    sidebar:
-      nav: layouts
-    ---
 
 ## Header 1
 
